@@ -1,0 +1,7 @@
+{
+    "name": "Moonshot Partial Injector",
+    "description": "为月之暗面 API 强制注入 partial 字段",
+    "version": "1.0.0",
+    "author": "Local",
+    "js": ["index.js"]
+}
